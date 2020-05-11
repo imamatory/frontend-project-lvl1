@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/imamatory/frontend-project-lvl1.git"
   },
+  "engines": {
+    "node": ">=13.0.0"
+  },
   "author": "Vadim Safonov",
   "license": "ISC",
   "bugs": {
