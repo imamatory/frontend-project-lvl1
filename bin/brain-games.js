@@ -1,2 +1,5 @@
-#!/usr/bin/env node
-console.log('Welcome to the Brain Games!');
+#!/usr/bin/env -S node --experimental-modules
+
+import { runGreeting } from '../src/cli.js';
+
+runGreeting();
